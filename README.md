@@ -1,73 +1,63 @@
-# Welcome to your Lovable project
+# 🌐 AI Driven Disaster Management & Recovery Platform
 
-## Project info
+A technology-driven platform built for disaster preparedness, real-time response, and community recovery.  
+Developed for the **Open Innovation Hackathon (Vibe Coding)**, this website combines live data, modern UI/UX techniques, and community-driven tools to create a powerful solution for disaster management.
 
-**URL**: https://lovable.dev/projects/357a6450-632f-4967-b4a4-fb4ddb386e05
+---
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+### 🛰️ Real-time Disaster Tracking
+- AI-powered system to predict and track upcoming disasters.
+- Live **satellite map** view of affected cities, towns, or regions.
+- **AI-calculated disaster impact percentage** to assess severity.
 
-**Use Lovable**
+### 👥 Community & Victim Support
+- Helps **victims connect with each other in times of disaster**, bringing hope when there seems to be none.  
+- Provides a platform for survivors to **inform loved ones that they are safe**, even from a far distance.  
+- Victims can **find nearby resources** (food, shelter, medical help).  
+- Temporary **skill-based job postings** to help communities rebuild after a disaster.  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/357a6450-632f-4967-b4a4-fb4ddb386e05) and start prompting.
+### 🆘 Emergency Features
+- **Call for Help** button to request immediate assistance.  
+- **SMS notification system** for quick alerts and updates.  
+- Dashboard with real-time stats:
+  - ✅ People rescued  
+  - 🟡 People safe  
+  - ❌ Not identified  
+  - ⏳ Estimated time for rescue team arrival  
 
-Changes made via Lovable will be committed automatically to this repo.
+### 🎨 Modern & Interactive UI
+This website is designed to be **visually striking** and deliver an engaging user experience:  
+- 🌌 **3D Scrollability** for immersive navigation.  
+- 🌀 **Parallax layering effects** to add depth and realism.  
+- 🎯 **Magnetic cursor interactions** for engaging mouse movement.  
+- 🎥 **Motion effects** for smooth, dynamic transitions.  
+- Dark blue themed **layered 3D design** for a professional and futuristic aesthetic.  
 
-**Use your preferred IDE**
+### 🔐 Authentication & Database
+- Secure **authentication system** with:
+  - Email/Password login  
+  - Google Sign-in option  
+- **Supabase database** integration for:
+  - User profiles (victims, volunteers, admins)  
+  - Job postings & applications  
+  - Disaster reports & resources  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ Tech Stack
+- **Frontend:** Lovable / Bolt / Replit (AI Website Builder) + Custom CSS/JS  
+- **Backend & Database:** Supabase (Postgres + Auth)  
+- **APIs:** Live satellite feeds, SMS gateway, AI prediction models  
+- **UI Enhancements:** 3D scroll, parallax, hover animations, motion effects  
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📌 How to Use
+1. **Sign Up / Login** via email or Google.  
+2. **Create a profile** (victim, volunteer, or admin).  
+3. **Access real-time disaster updates** on the dashboard.  
+4. **Request help, connect with others, or volunteer**.  
+5. **Inform your loved ones** that you are safe, even from afar.  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/357a6450-632f-4967-b4a4-fb4ddb386e05) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
