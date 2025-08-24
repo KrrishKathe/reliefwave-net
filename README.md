@@ -43,6 +43,26 @@ This website is designed to be **visually striking** and deliver an engaging use
 - Live **satellite map** view of affected cities, towns, or regions.
 - **AI-calculated disaster impact percentage** to assess severity.
 
+## 📈 Extra Features
+**You can filter the Resources based on :**
+- Shelters
+- Food & Water
+- Medical
+- Power & Charging
+- Communication
+**Emergency Resource**
+- When clicked on "Emergency Resource" big yellow button in the Emergency Resource page, you can select how many people are with you that need to be saved by increasing and decreasing option. The rescue team will bring the resources according to need only by saving extra resources for other people.
+- The website will ask you a prompt to share Live Location via Browser. Once Accpeted, our Location will get saved in the Database and the interface will change to "Location: Shared" instead of asking again. This is another working feature.
+**Jobs Page**
+- Also has a "Filter" option to filter out the jobs according to your Skill.
+- The saved jobs directly get saved in the Supabase according to the profile.
+ **Settings Page**
+- Shows us the information of the user.
+- We set preferences on Notifications and Security with Toggle Feature.
+- We can also View all the data, delete data, and export data from another profile if needed.
+- Disaster can happen anywhere. For people to give a user friendly experience, i have also added the "change language" feature for people to use it accoring to their comfort language.
+  
+
 ### 👥 Community & Victim Support
 - Helps **victims connect with each other in times of disaster**, bringing hope when there seems to be none.  
 - Provides a platform for survivors to **inform loved ones that they are safe**, even from a far distance.  
