@@ -34,7 +34,15 @@ This website is designed to be **visually striking** and deliver an engaging use
 - 🎯 **Magnetic cursor interactions** for engaging mouse movement.  
 - 🎥 **Motion effects** for smooth, dynamic transitions.
 - 💻 **Enlarging Block on Cursor Hover** feature for responsive look.
-- Dark blue themed **layered 3D design** for a professional and futuristic neon aesthetic.  
+- Dark blue themed **layered 3D design** for a professional and futuristic neon aesthetic.
+
+---
+
+## 📱 Device Friendly Nature of the Website
+
+-This website can change its Aspect sizes according to the device in which it is being Viewed for easier use amongst Users across Various Devices and Screen Sizes and Ratios.
+
+---
 
 ## 🚀 Features
 
