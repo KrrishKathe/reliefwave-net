@@ -59,14 +59,23 @@ This website is designed to be **visually striking** and deliver an engaging use
 
 **Magnetic Custom Cursor effect for enhanced "Techy and Modern" look yet keeing the UI Simple and User Friendly**
 
+
+**Resources Page**
+
 **You can filter the Resources based on :**
 - Shelters
 - Food & Water
 - Medical
 - Power & Charging
 - Communication
-**Emergency Resource**
-- When clicked on "Emergency Resource" big yellow button in the Emergency Resource page, you can select how many people are with you that need to be saved by increasing and decreasing option. The rescue team will bring the resources according to need only by saving extra resources for other people.
+- A summary of available shelters, food centres, medical stations, emergency lines, is shown at the top as stastistical data.
+- Scrolling further, the Name and Description of the Resource or Shelter will be seen along with its Location, Distance, Available people, Working Time of the resource and tags related to the resourcs.
+- You can get Directions, Call or View on Map.
+- The Capacity of the resource is a feature added so that the user can calculate the Capacity and Distance and Time and go to that Particular Resource only if Necessary. Unnecessary trip to resource can be avoided to save time and physical efforts to save the strenght for later on! So by any chance if the Capacity of a resource is Zero, the Victim wont need to go there just the find that the resource had been Used or Exhausted!
+
+  
+**Emergency SOS**
+- When clicked on "Emergency SOS" big yellow button in the Emergency Resource page, you can select how many people are with you that need to be saved by increasing and decreasing option. The rescue team will bring the resources according to need only by saving extra resources for other people.
 - The website will ask you a prompt to share Live Location via Browser. Once Accpeted, our Location will get saved in the Database and the interface will change to "Location: Shared" instead of asking again. This is another working feature.
 **Jobs Page**
 - Also has a "Filter" option to filter out the jobs according to your Skill.
