@@ -6,6 +6,36 @@ Designed with Modern and Trendy Website features to make it visually stunning an
 
 ---
 
+## 🌍 Why It Is Needed in Today’s World
+
+Disasters are unpredictable and often strike without warning — from earthquakes and floods to hurricanes and wildfires. In such situations, **the biggest challenges are communication, coordination, and quick response**.  
+
+- ⚠️ **Current problems:**  
+  - Victims often get cut off from their families, unable to inform them that they are safe.  
+  - Rescue teams lack real-time data on the number of people affected and their locations.  
+  - Relief resources are scattered, and victims struggle to find food, shelter, or medical help.  
+  - Job loss after disasters slows community recovery and leaves survivors helpless.  
+
+- ✅ **How this platform solves them:**  
+  - Provides a **single platform** for victims to connect with others and inform loved ones that they are safe.  
+  - Uses **AI and live satellite data** to predict disasters and map real-time impact.  
+  - Enables victims to **request help directly** and shows rescuers live stats for faster coordination.  
+  - Offers **temporary skill-based jobs**, helping survivors and communities rebuild after large-scale disasters.  
+  - Delivers a **modern, interactive user experience** that keeps people engaged and informed in critical times.  
+
+This solution combines **technology, real-time data, and human connection** to make disaster response faster, more reliable, and more compassionate.  
+
+---
+
+### 🎨 Modern & Interactive UI
+This website is designed to be **visually striking** and deliver an engaging user experience:  
+- 🌌 **3D Scrollability** for immersive navigation.  
+- 🌀 **Parallax layering effects** to add depth and realism.  
+- 🎯 **Magnetic cursor interactions** for engaging mouse movement.  
+- 🎥 **Motion effects** for smooth, dynamic transitions.
+- 💻 **Enlarging Block on Cursor Hover** feature for responsive look.
+- Dark blue themed **layered 3D design** for a professional and futuristic neon aesthetic.  
+
 ## 🚀 Features
 
 ### 🛰️ Real-time Disaster Tracking
@@ -28,15 +58,6 @@ Designed with Modern and Trendy Website features to make it visually stunning an
   - ❌ Not identified  
   - ⏳ Estimated time for rescue team arrival  
 
-### 🎨 Modern & Interactive UI
-This website is designed to be **visually striking** and deliver an engaging user experience:  
-- 🌌 **3D Scrollability** for immersive navigation.  
-- 🌀 **Parallax layering effects** to add depth and realism.  
-- 🎯 **Magnetic cursor interactions** for engaging mouse movement.  
-- 🎥 **Motion effects** for smooth, dynamic transitions.
-- 💻 **Enlarging Block on Cursor Hover** feature for responsive look.
-- Dark blue themed **layered 3D design** for a professional and futuristic neon aesthetic.  
-
 ### 🔐 Authentication & Database
 - Secure **authentication system** with:
   - Email/Password login 
@@ -46,27 +67,6 @@ This website is designed to be **visually striking** and deliver an engaging use
   - Job postings & applications  
   - Disaster reports & resources
   - (Can provide supabase link if needed)
-
----
-
-## 🌍 Why It Is Needed in Today’s World
-
-Disasters are unpredictable and often strike without warning — from earthquakes and floods to hurricanes and wildfires. In such situations, **the biggest challenges are communication, coordination, and quick response**.  
-
-- ⚠️ **Current problems:**  
-  - Victims often get cut off from their families, unable to inform them that they are safe.  
-  - Rescue teams lack real-time data on the number of people affected and their locations.  
-  - Relief resources are scattered, and victims struggle to find food, shelter, or medical help.  
-  - Job loss after disasters slows community recovery and leaves survivors helpless.  
-
-- ✅ **How this platform solves them:**  
-  - Provides a **single platform** for victims to connect with others and inform loved ones that they are safe.  
-  - Uses **AI and live satellite data** to predict disasters and map real-time impact.  
-  - Enables victims to **request help directly** and shows rescuers live stats for faster coordination.  
-  - Offers **temporary skill-based jobs**, helping survivors and communities rebuild after large-scale disasters.  
-  - Delivers a **modern, interactive user experience** that keeps people engaged and informed in critical times.  
-
-This solution combines **technology, real-time data, and human connection** to make disaster response faster, more reliable, and more compassionate.  
 
 ---
 
