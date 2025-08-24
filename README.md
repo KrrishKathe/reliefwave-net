@@ -55,7 +55,7 @@ This website is designed to be **visually striking** and deliver an engaging use
 
 **The Website opens up with a cool "Constantly moving" Motion based animation and logo that moves up creating a professional look**
 
-**The watter droplet on the home page symbolises Hope, Resources in needful times**
+**The watter droplet on the home page symbolises Hope, Resources in Needful Times**
 
 **Magnetic Custom Cursor effect for enhanced "Techy and Modern" look yet keeing the UI Simple and User Friendly. The Custom Designed Cursor will change colour according to the Negative colour of the button on which it is hovering. for exmaple, try hovering it on the Emergency SOS button. It apppears Blue. Click it and then hover it on the green shield logo. It Appears Pink**
 
@@ -131,3 +131,4 @@ This website is designed to be **visually striking** and deliver an engaging use
 4. **Request help, connect with others, or volunteer**.  
 5. **Inform your loved ones** that you are safe, even from afar.  
 
+Ps: The ReadMe is entirely typed by me and not AI generated. This was to ensure all the features by myself and note down them one by one.
