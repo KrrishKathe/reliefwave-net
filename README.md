@@ -44,6 +44,13 @@ This website is designed to be **visually striking** and deliver an engaging use
 - **AI-calculated disaster impact percentage** to assess severity.
 
 ## 📈 Extra Features
+
+**The Website opens up with a cool "Constantly moving" Motion based animation and logo logo that moves up creating a professional look**
+
+**The watter droplet on the home page symbolises Hope, Resources in needful times**
+
+**Magnetic Custom Cursor effect for enhanced "Techy and Modern" look yet keeing the UI Simple and User Friendly**
+
 **You can filter the Resources based on :**
 - Shelters
 - Food & Water
