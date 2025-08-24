@@ -57,7 +57,7 @@ This website is designed to be **visually striking** and deliver an engaging use
 
 **The watter droplet on the home page symbolises Hope, Resources in needful times**
 
-**Magnetic Custom Cursor effect for enhanced "Techy and Modern" look yet keeing the UI Simple and User Friendly. The Custom Designed Cursor will change colour according to the Negative colour of the button on which it is hovering. for exmaple, try hovering it on the Emergency SOS button. It apppears Blue. Click it and then hover it on the green shield logo. It Appears Pink. **
+**Magnetic Custom Cursor effect for enhanced "Techy and Modern" look yet keeing the UI Simple and User Friendly. The Custom Designed Cursor will change colour according to the Negative colour of the button on which it is hovering. for exmaple, try hovering it on the Emergency SOS button. It apppears Blue. Click it and then hover it on the green shield logo. It Appears Pink.**
 
 
 **Resources Page**
