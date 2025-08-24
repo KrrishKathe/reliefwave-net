@@ -53,13 +53,13 @@ This website is designed to be **visually striking** and deliver an engaging use
 
 ## 📈 Extra Features
 
-**The Website opens up with a cool "Constantly moving" Motion based animation and logo logo that moves up creating a professional look**
+**The Website opens up with a cool "Constantly moving" Motion based animation and logo that moves up creating a professional look**
 
 **The watter droplet on the home page symbolises Hope, Resources in needful times**
 
-**Magnetic Custom Cursor effect for enhanced "Techy and Modern" look yet keeing the UI Simple and User Friendly. The Custom Designed Cursor will change colour according to the Negative colour of the button on which it is hovering. for exmaple, try hovering it on the Emergency SOS button. It apppears Blue. Click it and then hover it on the green shield logo. It Appears Pink.**
+**Magnetic Custom Cursor effect for enhanced "Techy and Modern" look yet keeing the UI Simple and User Friendly. The Custom Designed Cursor will change colour according to the Negative colour of the button on which it is hovering. for exmaple, try hovering it on the Emergency SOS button. It apppears Blue. Click it and then hover it on the green shield logo. It Appears Pink**
 
-**I tried to make this website as Aesthetically Pleasing as possible but did not compromise on the Functionalities. When you load any page, Let's say the Resources Page, The Statistical Data like the "Capacity Bar" doesn't Load up according to what % it is on. When you Refresh the Page, the bar smoothly moves to that current % level. I also gave it a multicolour look according to the % level rather than keeping it constant so that it looks Eye-Catching and the user will get the Availibility of Resource at a glance rather than searching for exact % data in the side. Dashboards and Panels also come up in a Motion Based Animated form when each Page loads up.**
+**I tried to make this website as Aesthetically Pleasing as possible but did not compromise on the Functionalities. When you load any page, Let's say the Resources Page, The Statistical Data like the "Capacity Bar" doesn't Load up according to what % it is on. When you Refresh the Page, the bar smoothly moves to that current % level. I also gave it a multicolour look according to the % level rather than keeping it constant so that it looks Eye-Catching and the user will get the Availibility of Resource at a glance rather than searching for exact % data in the side. Dashboards and Panels also come up in a Motion Based Animated form when each Page loads up**
 
 
 **Resources Page**
