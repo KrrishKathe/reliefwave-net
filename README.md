@@ -40,7 +40,7 @@ This website is designed to be **visually striking** and deliver an engaging use
 
 ## 📱 Device Friendly Nature of the Website
 
--This website can change its Aspect sizes according to the device in which it is being Viewed for easier use amongst Users across Various Devices and Screen Sizes and Ratios.
+- I made it in such a Way that This website can change its Aspect sizes according to the device in which it is being Viewed for easier use amongst Users across Various Devices and Screen Sizes and Ratios.
 
 ---
 
